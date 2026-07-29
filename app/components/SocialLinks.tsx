@@ -7,7 +7,7 @@ export default function SocialLinks() {
   return (
     <nav className={styles.socials} aria-label="Sosiale medier">
       <Link
-        href="https://facebook.com/dinbruker"
+        href="https://www.facebook.com/p/Ragnhild-Tronsmo-61571919862161"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Facebook"
@@ -16,7 +16,7 @@ export default function SocialLinks() {
       </Link>
 
       <Link
-        href="https://instagram.com/dinbruker"
+        href="https://www.instagram.com/ragnhildtronsmo"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Instagram"
@@ -25,7 +25,7 @@ export default function SocialLinks() {
       </Link>
 
       <Link
-        href="https://open.spotify.com/artist/dinartistid"
+        href="https://open.spotify.com/artist/4PAqOaTxizYIFoMUGGET5h?si=Alj1GXiCQhmvelJnK9CETA"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Spotify"
