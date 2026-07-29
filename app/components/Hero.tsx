@@ -16,7 +16,10 @@ export default function Hero() {
 
       <div className={styles.head2}>
         <picture>
-          <source media="(max-width: 972px)" srcSet="/ragnhild_header.jpeg" />
+          <source
+            media="(max-width: 972px)"
+            srcSet="/ragnhild_header_mobil3.jpg"
+          />
 
           <img
             src="/ragnhild_header.jpeg"
