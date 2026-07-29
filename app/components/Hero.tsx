@@ -18,7 +18,7 @@ export default function Hero() {
         <picture>
           <source
             media="(max-width: 972px)"
-            srcSet="/ragnhild_header_mobil3.jpg"
+            srcSet="/ragnhild_header_mobil4.jpg"
           />
 
           <img
