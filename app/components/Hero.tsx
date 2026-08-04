@@ -8,10 +8,15 @@ export default function Hero() {
         <div className={styles.text}>
           <h1>Ragnhild Tronsmo</h1>
 
-          <p>Arvelinjer - Debutalbum ute høsten 2026</p>
-          <p>Kontakt: ragnhildth@gmail.com</p>
+          <p>Formødre - Singel ute 21.08</p>
+          <p>Arvelinjer - Album ute 18.09</p>
         </div>
-        <SocialLinks />
+        <div className={styles.socialDiv}>
+          <SocialLinks />
+          <small className={styles.contact}>
+            Kontakt: ragnhildth@gmail.com
+          </small>
+        </div>
       </div>
 
       <div className={styles.head2}>
